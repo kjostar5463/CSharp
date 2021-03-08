@@ -8,6 +8,7 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("2017848028 김준우");
+            Console.ReadLine();
         }
     }
 }
