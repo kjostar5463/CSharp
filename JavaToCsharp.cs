@@ -149,7 +149,7 @@ namespace JavaToCsharp
 			if (opt.testPair(exp))
 				Console.WriteLine("괄호 맞음!!");
 
-            else
+           		else
 				Console.WriteLine("괄호 틀림!!");
 
 			Console.ReadLine();
