@@ -152,7 +152,7 @@ namespace JavaToCsharp
            		else
 				Console.WriteLine("괄호 틀림!!");
 
-			//Console.ReadLine(); 출력 
+			//Console.ReadLine(); 출력 테스트
 		}
 	}
 }
